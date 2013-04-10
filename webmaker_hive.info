@@ -1,0 +1,3 @@
+name = Webmaker Hive
+description = Builds a CSS Hive based on contributions
+core = 7.x
